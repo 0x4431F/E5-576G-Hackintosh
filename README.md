@@ -1,18 +1,18 @@
 
-# Acer Aspire E 15 E5-576G Hackintosh
+# Acer Aspire E 15 E5-576G-58RV Hackintosh
 
-macOS Catalina/Big Sur on Acer E5-576G
+macOS Catalina/Big Sur/Monterey on Acer E5-576G-58RV
 
 ## Configuration
 
 | Specifications | Detail                                                  |
 | ------------------- | ------------------------------------------- |
-| Computer model      | Acer Aspire E 15 E5-576G (MX150)      |
+| Computer model      | Acer Aspire E 15 E5-576G-58RV (MX150)      |
 | Processor           | Intel Core i5-8250U Processor     |
-| Memory              | 8GB DDR3 1600MHz              |
+| Memory              | 16GB DDR3 1600MHz              |
 | Integrated Graphics | Intel UHD Graphics 620                     |
 | Sound Card          | Realtek ALC255 (layout-id:30)           |
-| Wireless Card       | Intel Wireless 3165                        |
+| Wireless Card       | Broadcom bcm94352z                        |
 
 
 ## Current Status in OpenCore
